@@ -4,7 +4,7 @@ publish_to: 'none' #
 version: 1.0.4+4
 
 environment:
-  sdk: '>=2.15.0 <3.0.0'
+  sdk: '>=2.15.0 <3.16.0'
 
 dependencies:
   flutter:
@@ -19,7 +19,7 @@ dependencies:
   path_provider: ^2.0.2
   url_strategy: ^0.2.0
   image_picker: ^1.0.7
-  fl_chart: ^0.65.0
+  fl_chart: ^0.66.2
   get: ^4.6.3
   flutter_switch: ^0.3.2
   timezone: ^0.9.0
